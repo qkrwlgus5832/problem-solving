@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "숫자 변환하기", "숫�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "미로 탈출", "미로 탈출\미로 탈출.vcxproj", "{9CEB9D51-7BBC-4B1C-AA50-B440734DE35B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "무인도 여행", "무인도 여행\무인도 여행.vcxproj", "{75137A29-41D3-45EE-8C17-9B3A41AD10F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{9CEB9D51-7BBC-4B1C-AA50-B440734DE35B}.Release|x64.Build.0 = Release|x64
 		{9CEB9D51-7BBC-4B1C-AA50-B440734DE35B}.Release|x86.ActiveCfg = Release|Win32
 		{9CEB9D51-7BBC-4B1C-AA50-B440734DE35B}.Release|x86.Build.0 = Release|Win32
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Debug|x64.ActiveCfg = Debug|x64
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Debug|x64.Build.0 = Debug|x64
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Debug|x86.Build.0 = Debug|Win32
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Release|x64.ActiveCfg = Release|x64
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Release|x64.Build.0 = Release|x64
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Release|x86.ActiveCfg = Release|Win32
+		{75137A29-41D3-45EE-8C17-9B3A41AD10F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
