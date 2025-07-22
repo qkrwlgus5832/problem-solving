@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e0d5ba28-d2bb-4bca-93a1-fa65261368ad}</ProjectGuid>
-    <RootNamespace>호텔대실</RootNamespace>
+    <ProjectGuid>{21c94c80-a8a7-4665-8c1b-21eb87fe59ea}</ProjectGuid>
+    <RootNamespace>거리두기확인하기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="호텔 대실.cpp" />
+    <ClCompile Include="거리두기 확인하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
