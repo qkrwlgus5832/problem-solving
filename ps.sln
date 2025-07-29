@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예산", "예산\예산.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "-숫자 짝꿍", "-숫자 짝꿍\-숫자 짝꿍.vcxproj", "{ADD78085-7088-4BA0-897A-9872F46C4B2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "K번째수", "K번째수\K번째수.vcxproj", "{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{ADD78085-7088-4BA0-897A-9872F46C4B2F}.Release|x64.Build.0 = Release|x64
 		{ADD78085-7088-4BA0-897A-9872F46C4B2F}.Release|x86.ActiveCfg = Release|Win32
 		{ADD78085-7088-4BA0-897A-9872F46C4B2F}.Release|x86.Build.0 = Release|Win32
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Debug|x64.ActiveCfg = Debug|x64
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Debug|x64.Build.0 = Debug|x64
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Debug|x86.ActiveCfg = Debug|Win32
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Debug|x86.Build.0 = Debug|Win32
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Release|x64.ActiveCfg = Release|x64
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Release|x64.Build.0 = Release|x64
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Release|x86.ActiveCfg = Release|Win32
+		{13E514DF-7A8E-4EFB-93D4-88E76E6C6653}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
